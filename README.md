@@ -4,22 +4,23 @@
 ### General Motors Technical Centre India
 Bangalore, India
 
-**Senior Engineer - Safety CAE**
-Pedestrian Protection CAE,  February 2015 - Present
-**Engineer - Safety CAE Enginer**
-Safety Crashworthiness CAE, August 2013 - February 2015
+**Senior Engineer - Safety CAE**, Pedestrian Protection CAE,  February 2015 - Present
+
+**Engineer - Safety CAE Enginer**, Safety Crashworthiness CAE, August 2013 - February 2015
 
 > - Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
 > - CAE Analysis of full-vehicle frontal, rear and side loadcases in USNCAP, China NCAP.
-> - Structural and occupant simulation for full vehicle models.
+> - CAE Analysis of all pedestrian protection loadcases 
+> - Structural, occupant, and pedestrian protection simulation for full vehicle models.
 > - Correlation of CAE model to physical test results.
 > - Development of counter measures to meet performance target values.
-> - Professional working efficiency and capability in LS-DYNA, Primer, and Hyperworks Package.
+> - Automate FE model generation, simulation, and post-processing procedures to reduce development time and increase efficiency
+> - Professional working efficiency and capability in LS-DYNA, Primer, Animator, LS Opt, and Hyperworks package.
 
-### Indian Institute of Science Bangalore**
-**Project Assistant**
+### Indian Institute of Science Bangalore
 
-Computational Nano-Engineering Group, M2D2 Lab, under Dr. G. K. Ananthasuresh August 2010 - June 2011
+**Project Assistant**, Computational Nano-Engineering Group, M2D2 Lab, under Dr. G. K. Ananthasuresh August 2010 - June 2011
+
 > - Benchmarking of an FEA package developed in IISc (HyFEM) to commercial packages.
 > - Finite element simulation of micro compliant mechanisms.
 
@@ -62,5 +63,12 @@ Advisor - Dr. P. K. Patowari, Associate Professor, Dept of Mechanical Engineerin
 - **Design for Six Sigma (DFSS) BlackBelt**, General Motors University, 2015
 - **Graduate Scholarship from MHRD**, Government of India for pursuing masters’ degree (on the basis of GATE mechanical engineering qualified with 99+ percentile in 2011)
 - Certificate of Proficience from the Government of Assam for **securing state rank of 24 and 32 in class X and XII board examinations** respectively
+
+## Teaching Experience
+None
+
+## Mentoring Experience
+- Mentored an intern for carrying out experiments for BUG Hexpod project
+- Mentored an intern for Sickle Innovations project
 
 Download this document [here](https://gitprint.com/m2n037/CV_m2n037/blob/master/README.md) as PDF using [GitPrint](https://gitprint.com/)
