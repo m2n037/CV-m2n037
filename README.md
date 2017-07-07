@@ -38,10 +38,10 @@ Thesis - Design and analysis of thermal actuators for MEMS applications.
 Advisor - Dr. P. K. Patowari, Associate Professor, Dept of Mechanical Engineering, NIT Silchar.
 
 ## PUBLICATIONS/PATENTS
-1. Mukunda Madhava Nath, Nitin Gupta, Dibakar Sen. Design of an Ergonomic Bicycle Seat. In proceedings of International Ergonomics Conference - Humanizing Work and Work Environment, December 2014, IIT Guwahati, Assam, India.
-2. Dibakar Sen, Mukunda Madhava Nath, Nitin Gupta. A bicycle seat assembly. Indian patent application 2105/CHE/2013. Patent pending.
-3. P. K. Patowari, M. M. Nath, A. S. Bharali, J. Gogoi, C. K. Singh. Comparative Study of Different Micro-Thermal Actuators for Micro-Electro-Mechanical-System Application. Journal of Advanced Manufacturing Systems (JAMS), Volume 11, Issue 1(2012) pp. 17-26, January 1, 2012.
-4. P. K. Patowari, M. M. Nath, A. S. Bharali, J. Gogoi, C. K. Singh. Comparative Study of Different Micro-Thermal Actuators for MEMS Application. In Proceedings of the 3rd International and 24th All India Manufacturing Technology, Design and Research (AIMTDR) Conference, December 2010, Visakhapatnam, India.
+1. **Mukunda Madhava Nath**, Nitin Gupta, Dibakar Sen. Design of an Ergonomic Bicycle Seat. In proceedings of International Ergonomics Conference - Humanizing Work and Work Environment, December 2014, IIT Guwahati, Assam, India.
+2. Dibakar Sen, **Mukunda Madhava Nath**, Nitin Gupta. A bicycle seat assembly. Indian patent application 2105/CHE/2013. Patent pending.
+3. P. K. Patowari, **M. M. Nath**, A. S. Bharali, J. Gogoi, C. K. Singh. Comparative Study of Different Micro-Thermal Actuators for Micro-Electro-Mechanical-System Application. Journal of Advanced Manufacturing Systems (JAMS), Volume 11, Issue 1(2012) pp. 17-26, January 1, 2012.
+4. P. K. Patowari, **M. M. Nath**, A. S. Bharali, J. Gogoi, C. K. Singh. Comparative Study of Different Micro-Thermal Actuators for MEMS Application. In Proceedings of the 3rd International and 24th All India Manufacturing Technology, Design and Research (AIMTDR) Conference, December 2010, Visakhapatnam, India.
 
 ## SOFTWARE SKILLS
 - Simulation Packages: LS DYNA, Optistruct, Abaqus, NX Nastran, Comsol.
