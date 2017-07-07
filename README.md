@@ -1,26 +1,29 @@
 # Mukunda Madhava Nath
 
 ## WORK EXPERIENCE
-General Motors Technical Centre India Senior Engineer - Safety CAE
+**General Motors Technical Centre India**
+#### Senior Engineer - Safety CAE
 Pedestrian Protection CAE, Bangalore, India February 2015 - Present
-• Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
-• CAE Analysis of Lower Leg, Upper Leg, and Head Impact simulations for pedestrian protection regulations
+> Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
+> CAE Analysis of Lower Leg, Upper Leg, and Head Impact simulations for pedestrian protection regulations
 compliance.
-• Correlation of CAE model to physical test results.
-• Development of counter measures to meet performance target values.
-• Professional working efficiency and capability in LS-DYNA, Primer, and Hyperworks Package.
-General Motors Technical Centre India Engineer - Safety CAE Engineer
+> Correlation of CAE model to physical test results.
+> Development of counter measures to meet performance target values.
+> Professional working efficiency and capability in LS-DYNA, Primer, and Hyperworks Package.
+#### Engineer - Safety CAE Engineer
 Safety Crashworthiness CAE, Bangalore, India August 2013 - February 2015
-• Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
-• CAE Analysis of full-vehicle frontal, rear and side loadcases in USNCAP, China NCAP.
-• Structural and occupant simulation for full vehicle models.
-• Correlation of CAE model to physical test results.
-• Development of counter measures to meet performance target values.
-• Professional working efficiency and capability in LS-DYNA, Primer, and Hyperworks Package.
-Indian Institute of Science Bangalore Project Assistant
+> Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
+> CAE Analysis of full-vehicle frontal, rear and side loadcases in USNCAP, China NCAP.
+> Structural and occupant simulation for full vehicle models.
+> Correlation of CAE model to physical test results.
+> Development of counter measures to meet performance target values.
+> Professional working efficiency and capability in LS-DYNA, Primer, and Hyperworks Package.
+
+**Indian Institute of Science Bangalore**
+#### Project Assistant
 Computational Nano-Engineering Group, M2D2 Lab, under Dr. G. K. Ananthasuresh August 2010 - June 2011
-• Benchmarking of an FEA package developed in IISc (HyFEM) to commercial packages.
-• Finite element simulation of micro compliant mechanisms.
+> Benchmarking of an FEA package developed in IISc (HyFEM) to commercial packages.
+> Finite element simulation of micro compliant mechanisms.
 
 ## EDUCATION
 Master of Design (MDes), Product Design and Engineering, July 2011 - July 2013
@@ -47,7 +50,7 @@ Micro-Thermal Actuators for MEMS Application. In Proceedings of the 3rd Internat
 24th All India Manufacturing Technology, Design and Research (AIMTDR) Conference, December 2010,
 Visakhapatnam, India.
 
-##SOFTWARE SKILLS
+## SOFTWARE SKILLS
 Simulation Packages: LS DYNA, Optistruct, Abaqus, NX Nastran, Comsol.
 Pre-Processing: Hypermesh, Primer, LS Pre-post.
 CAD Packages: NX CAD (Unigraphics) 9.0, Solidworks 2012.
