@@ -57,4 +57,4 @@ in 2011).
 •- Certificate of Proficience from the Government of Assam for securing state rank of 24 and 32 in class X
 and XII board examinations respectively
 
-Download this document [here](https://gitprint.com/m2n037/CV_m2n037/blob/master/README.md) using [GitPrint](https://gitprint.com/)
+Download this document [here](https://gitprint.com/m2n037/CV_m2n037/blob/master/README.md) as PDF using [GitPrint](https://gitprint.com/)
