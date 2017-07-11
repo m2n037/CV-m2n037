@@ -1,7 +1,7 @@
 # Mukunda Madhava Nath
 
 ## Work Experience
-### General Motors Technical Centre India
+### [General Motors](http://www.gm.com/) [Technical Centre India](http://careers.gm.com/worldwide-locations/asiamiddle-east/india.html)
 Bangalore, India
 
 **Senior Engineer - Safety CAE**, Pedestrian Protection CAE,  February 2015 - Present
@@ -17,7 +17,7 @@ Bangalore, India
 > - Automate FE model generation, simulation, and post-processing procedures to reduce development time and increase efficiency
 > - Professional working efficiency and capability in LS-DYNA, Primer, Animator, LS Opt, and Hyperworks package.
 
-### Indian Institute of Science Bangalore
+### [Indian Institute of Science Bangalore](http://www.iisc.ac.in/)
 
 **Project Assistant**, Computational Nano-Engineering Group, M2D2 Lab, under Dr. G. K. Ananthasuresh August 2010 - June 2011
 
@@ -26,9 +26,9 @@ Bangalore, India
 
 ## Education
 ### Indian Institute of Science Bangalore
-**Master of Design (MDes), Product Design and Engineering, July 2011 - July 2013**, Centre for Product Design and Manufacturing(CPDM)
+**Master of Design (MDes), Product Design and Engineering, July 2011 - July 2013**, [Centre for Product Design and Manufacturing(CPDM)](http://cpdm.iisc.ac.in/cpdm/)
 
-Thesis - *Design, Fabrication, and Testing of a Novel and Cost-Effective Soil Moisture Sensor Meter for Farming Applications in India.*
+Thesis - *Design, Fabrication, and Testing of a Novel and Cost-Effective Soil Moisture Sensor Meter for Farming Applications in India.* [(G-Drive Link)](https://google.com)
 
 Advisor - Dr. G. K. Ananthasuresh, Professor, Dept of Mechanical Engineering, IISc Bangalore
 
