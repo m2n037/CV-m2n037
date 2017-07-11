@@ -64,11 +64,21 @@ Advisor - Dr. P. K. Patowari, Associate Professor, Dept of Mechanical Engineerin
 - **Graduate Scholarship from MHRD**, Government of India for pursuing masters’ degree (on the basis of GATE mechanical engineering qualified with 99+ percentile in 2011)
 - Certificate of Proficience from the Government of Assam for **securing state rank of 24 and 32 in class X and XII board examinations** respectively
 
+## Invited Talks
+None
+
+## Attended Seminars/Conferences
+None
+
 ## Teaching Experience
 None
 
 ## Mentoring Experience
 - Mentored an intern for carrying out experiments for BUG Hexpod project
 - Mentored an intern for Sickle Innovations project
+
+## Writing Experience
+- Blogging at [$root@m2n037](https://m2n037.wordpress.com/)
+- Quora answers with 1 million+ views
 
 Download this document [here](https://gitprint.com/m2n037/CV_m2n037/blob/master/README.md) as PDF using [GitPrint](https://gitprint.com/)
