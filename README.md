@@ -25,19 +25,19 @@ Bangalore, India
 > - Finite element simulation of micro compliant mechanisms.
 
 ## Education
-### Indian Institute of Science Bangalore
-**Master of Design (MDes), Product Design and Engineering, July 2011 - July 2013**, [Centre for Product Design and Manufacturing(CPDM)](http://cpdm.iisc.ac.in/cpdm/)
+### [Indian Institute of Science Bangalore](https://www.google.co.in/)
+**[Master of Design (MDes), Product Design and Engineering](https://www.google.co.in/), July 2011 - July 2013**, [Centre for Product Design and Manufacturing(CPDM)](http://cpdm.iisc.ac.in/cpdm/)
 
 Thesis - *Design, Fabrication, and Testing of a Novel and Cost-Effective Soil Moisture Sensor Meter for Farming Applications in India.* [(G-Drive Link)](https://google.com)
 
-Advisor - Dr. G. K. Ananthasuresh, Professor, Dept of Mechanical Engineering, IISc Bangalore
+Advisor - [Dr. G. K. Ananthasuresh](https://www.google.co.in/), Professor, [Dept of Mechanical Engineering, IISc Bangalore](https://www.google.co.in/)
 
-### National Institute of Technology (NIT) Silchar
+### [National Institute of Technology (NIT) Silchar](https://www.google.co.in/)
 **Bachelor of Technology(BTech), Mechanical Engineering July 2006 - June 2010**, Department of Mechanical Engineering. , India.
 
 Thesis - *Design and analysis of thermal actuators for MEMS applications.*
 
-Advisor - Dr. P. K. Patowari, Associate Professor, Dept of Mechanical Engineering, NIT Silchar.
+Advisor - [Dr. P. K. Patowari](https://www.google.co.in/), Associate Professor, Dept of Mechanical Engineering, NIT Silchar.
 
 ## Publications and Patents
 ### Publications
@@ -46,7 +46,7 @@ Advisor - Dr. P. K. Patowari, Associate Professor, Dept of Mechanical Engineerin
 3. P. K. Patowari, *M. M. Nath*, A. S. Bharali, J. Gogoi, C. K. Singh. **Comparative Study of Different Micro-Thermal Actuators for MEMS Application**. In Proceedings of the 3rd International and 24th All India Manufacturing Technology, Design and Research (AIMTDR) Conference, December 2010, Visakhapatnam, India. [(Pre-Print G-Drive Link)](https://google.com)
 
 ### Patents
-1. Dibakar Sen, **Mukunda Madhava Nath**, Nitin Gupta. A bicycle seat assembly. Indian patent application 2105/CHE/2013. Patent pending. [(Pre-Print G-Drive Link)](https://google.com)
+1. Dibakar Sen, *Mukunda Madhava Nath*, Nitin Gupta. **A bicycle seat assembly**. Indian patent application **2105/CHE/2013**. Patent pending. [(Pre-Print G-Drive Link)](https://google.com)
 
 ## Projects
 ### [BUG Hexapod Project](https://m2n037.github.io/BUG-Hexapod/#/)
