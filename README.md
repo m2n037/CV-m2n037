@@ -4,8 +4,7 @@
 ### [General Motors](http://www.gm.com/) [Technical Centre India](http://careers.gm.com/worldwide-locations/asiamiddle-east/india.html)
 Bangalore, India
 
-**Senior Engineer - Safety CAE**, Pedestrian Protection CAE,  February 2015 - Present
-**Engineer - Safety CAE Enginer**, Safety Crashworthiness CAE, August 2013 - February 2015
+**Senior Engineer - Safety CAE**, Pedestrian Protection CAE,  August 2013 - Present
 
 > - Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
 > - CAE Analysis of full-vehicle frontal, rear and side loadcases in USNCAP, China NCAP.
