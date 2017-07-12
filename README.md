@@ -5,7 +5,6 @@
 Bangalore, India
 
 **Senior Engineer - Safety CAE**, Pedestrian Protection CAE,  February 2015 - Present
-
 **Engineer - Safety CAE Enginer**, Safety Crashworthiness CAE, August 2013 - February 2015
 
 > - Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
@@ -57,7 +56,7 @@ Advisor - [Dr. P. K. Patowari](https://www.google.co.in/), Associate Professor, 
 - **Pre-Processing**: Hypermesh, Primer, LS Pre-post.
 - **CAD Packages**: NX CAD (Unigraphics) 9.0, Solidworks 2012.
 - **Programming**: Excel VBA, Unix Shell, Python, MATLAB, C++.
-- **Presentation/Documentation**: MS Office, LATEX, Beamer.
+- **Presentation/Documentation**: MS Office, LaTeX, Beamer.
 
 ## Honors and Achievements
 - **Design for Six Sigma (DFSS) BlackBelt**, General Motors University, 2015
