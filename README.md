@@ -28,14 +28,14 @@ Bangalore, India
 
 Thesis - *Design, Fabrication, and Testing of a Novel and Cost-Effective Soil Moisture Sensor Meter for Farming Applications in India.* [(G-Drive Link)](https://google.com)
 
-Advisor - [Dr. G. K. Ananthasuresh](https://www.google.co.in/), Professor, [Dept of Mechanical Engineering, IISc Bangalore](https://www.google.co.in/)
+Advisor - [Dr. G. K. Ananthasuresh](http://www.mecheng.iisc.ernet.in/~suresh/), Professor, [Dept of Mechanical Engineering, IISc Bangalore](http://www.mecheng.iisc.ernet.in/)
 
 ### [National Institute of Technology (NIT) Silchar](https://www.google.co.in/)
 **Bachelor of Technology(BTech), Mechanical Engineering July 2006 - June 2010**, Department of Mechanical Engineering. , India.
 
 Thesis - *Design and analysis of thermal actuators for MEMS applications.*
 
-Advisor - [Dr. P. K. Patowari](https://www.google.co.in/), Associate Professor, Dept of Mechanical Engineering, NIT Silchar.
+Advisor - [Dr. P. K. Patowari](http://www.nits.ac.in/departments/mech/faculty/P_K_Patowari/pkpatowari.html), Associate Professor, Dept of Mechanical Engineering, NIT Silchar.
 
 ## Publications and Patents
 ### Publications
@@ -77,6 +77,6 @@ None
 
 ## Writing Experience
 - Blogging at [$root@m2n037](https://m2n037.wordpress.com/)
-- Quora answers with 1 million+ views
+- [Quora answers](https://www.quora.com/profile/Mukunda-Madhava-Nath) with 1.6 million+ views
 
 Download this document [here](https://gitprint.com/m2n037/CV_m2n037/blob/master/README.md) as PDF using [GitPrint](https://gitprint.com/)
