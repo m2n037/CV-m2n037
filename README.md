@@ -24,14 +24,14 @@ Bangalore, India
 
 ## Education
 ### [Indian Institute of Science Bangalore](https://www.google.co.in/)
-**[Master of Design (MDes), Product Design and Engineering](https://www.google.co.in/), July 2011 - July 2013**, [Centre for Product Design and Manufacturing(CPDM)](http://cpdm.iisc.ac.in/cpdm/)
+**[Master of Design (MDes), Product Design and Engineering](https://www.google.co.in/), July 2011 - July 2013**, [Centre for Product Design and Manufacturing(CPDM)](http://cpdm.iisc.ac.in/cpdm/), CGPA 6.4/8.0
 
 Thesis - *Design, Fabrication, and Testing of a Novel and Cost-Effective Soil Moisture Sensor Meter for Farming Applications in India.* [(G-Drive Link)](https://google.com)
 
 Advisor - [Dr. G. K. Ananthasuresh](http://www.mecheng.iisc.ernet.in/~suresh/), Professor, [Dept of Mechanical Engineering, IISc Bangalore](http://www.mecheng.iisc.ernet.in/)
 
 ### [National Institute of Technology (NIT) Silchar](https://www.google.co.in/)
-**Bachelor of Technology(BTech), Mechanical Engineering July 2006 - June 2010**, Department of Mechanical Engineering. , India.
+**Bachelor of Technology(BTech), Mechanical Engineering July 2006 - June 2010**, Department of Mechanical Engineering, CGPA 8.29/10
 
 Thesis - *Design and analysis of thermal actuators for MEMS applications.*
 
