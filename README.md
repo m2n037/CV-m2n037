@@ -76,7 +76,7 @@ None
 - Mentored an intern for Sickle Innovations project
 
 ## Writing Experience
-- Blogging at [$root@m2n037](https://m2n037.wordpress.com/)
+- Blogging at [Ruminations of a Wannabe Engineer](https://m2n037.wordpress.com/)
 - [Quora answers](https://www.quora.com/profile/Mukunda-Madhava-Nath) with 1.6 million+ views
 
 Download this document [here](https://gitprint.com/m2n037/CV_m2n037/blob/master/README.md) as PDF using [GitPrint](https://gitprint.com/)
