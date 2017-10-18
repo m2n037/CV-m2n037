@@ -77,6 +77,6 @@ None
 
 ## Writing Experience
 - Blogging at [Ruminations of a Wannabe Engineer](https://m2n037.wordpress.com/)
-- [Quora answers](https://www.quora.com/profile/Mukunda-Madhava-Nath) with 1.7 million+ views
+- [Quora answers](https://www.quora.com/profile/Mukunda-Madhava-Nath) with 1.8 million+ views
 
 Download this document [here](https://gitprint.com/m2n037/CV_m2n037/blob/master/README.md) as PDF using [GitPrint](https://gitprint.com/)
