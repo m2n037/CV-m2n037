@@ -1,10 +1,20 @@
 # Mukunda Madhava Nath
 
 ## Work Experience
+### [R&D Organization](http://www.gm.com/)
+Bangalore, India
+
+**Technical Lead**, R&D Lab,  *December 2017 - present*
+
+> - Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
+> - CAE Analysis of full-vehicle frontal, rear and side loadcases in USNCAP, China NCAP.
+> - CAE Analysis of all pedestrian protection loadcases 
+> - Structural, occupant, and pedestrian protection simulation for full vehicle models.
+
 ### [General Motors](http://www.gm.com/) [Technical Centre India](http://careers.gm.com/worldwide-locations/asiamiddle-east/india.html)
 Bangalore, India
 
-**Senior Engineer - Safety CAE**, Pedestrian Protection CAE,  August 2013 - Present
+**Senior Engineer - Safety CAE**, Pedestrian Protection CAE,  *August 2013 - November 2017*
 
 > - Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
 > - CAE Analysis of full-vehicle frontal, rear and side loadcases in USNCAP, China NCAP.
@@ -17,7 +27,7 @@ Bangalore, India
 
 ### [Indian Institute of Science Bangalore](http://www.iisc.ac.in/)
 
-**Project Assistant**, Computational Nano-Engineering Group, M2D2 Lab, under Dr. G. K. Ananthasuresh August 2010 - June 2011
+**Project Assistant**, Computational Nano-Engineering Group, M2D2 Lab, under Dr. G. K. Ananthasuresh, *August 2010 - June 2011*
 
 > - Benchmarking of an FEA package developed in IISc (HyFEM) to commercial packages.
 > - Finite element simulation of micro compliant mechanisms.
