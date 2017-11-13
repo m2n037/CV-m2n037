@@ -6,10 +6,14 @@ Bangalore, India
 
 **Technical Lead**, R&D Lab,  *December 2017 - present*
 
-> - Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
-> - CAE Analysis of full-vehicle frontal, rear and side loadcases in USNCAP, China NCAP.
-> - CAE Analysis of all pedestrian protection loadcases 
-> - Structural, occupant, and pedestrian protection simulation for full vehicle models.
+> - Working with cross function design and analysis teams across sites on the next generation systems. Use simulation and experimental techniques to analyse structural weaknesses in a design while working towards improving current modeling methodology.
+> - Performing structural simulation/analysis at a component and system level.
+> - Characterization of new materials. Design the experiments to characterize these materials and their material modeling.
+> - Identify advancements in simulation technology and its incorporation into current process.
+> - Working with mechanical design, manufacturing, materials engineering teams and external vendors.
+> - Using research outlook to identify new problems in the domain.
+> - Simulating manufacturing processes. 
+> - Python/TCL scripting for automation of processes and improving efficiency
 
 ### [General Motors](http://www.gm.com/) [Technical Centre India](http://careers.gm.com/worldwide-locations/asiamiddle-east/india.html)
 Bangalore, India
