@@ -1,10 +1,10 @@
 # Mukunda Madhava Nath
 
 ## Work Experience
-### [Samsung R&D Institute Bangalore](https://en.wikipedia.org/wiki/Samsung_R%26D_Institute_India,_Bangalore)
+### [Samsung R&D Institute Bangalore (SRI-B)](https://en.wikipedia.org/wiki/Samsung_R%26D_Institute_India,_Bangalore), [Samsung Electronics](http://www.samsung.com)
 Bangalore, India
 
-**Technical Lead**, CTO, Advanced Technology Lab,  *December 2017 - present*
+**Technical Lead**, Creative Solutions Lab, CTO, Advanced Technology Lab,  *December 2017 - present*
 
 > - Working with cross function design and analysis teams across sites on the next generation systems. Use simulation and experimental techniques to analyse structural weaknesses in a design while working towards improving current modeling methodology.
 > - Performing structural simulation/analysis at a component and system level.
