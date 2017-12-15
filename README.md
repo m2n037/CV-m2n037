@@ -77,7 +77,8 @@ Advisor - [Dr. P. K. Patowari](http://www.nits.ac.in/departments/mech/faculty/P_
 - Certificate of Proficience from the Government of Assam for **securing state rank of 24 and 32 in class X and XII board examinations** respectively
 
 ## Invited Talks
-None
+- A talk on Non-traditional Career Opportunities for School Children at Career Conclave 2016, organized by [Vidyarthi Point](http://vidyarthipoint.com/en/)
+- 
 
 ## Attended Seminars/Conferences
 None
