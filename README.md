@@ -4,7 +4,8 @@
 ### [Samsung R&D Institute Bangalore (SRI-B)](http://research.samsung.com/sri-b), [Samsung Electronics](http://www.samsung.com)
 Bangalore, India
 
-**Technical Lead - Mechanical Engineer III**, Creative Solutions Lab, Advanced Technology Lab, CTO *December 2017 - present*
+**Technical Lead - Mechanical Engineer III**, Creative Solutions Lab, Advanced Technology Lab, CTO 
+*December 2017 - present*
 
 > - Working with cross function design and analysis teams across sites on the next generation systems. Use simulation and experimental techniques to analyse structural weaknesses in a design while working towards improving current modeling methodology.
 > - Performing structural simulation/analysis at a component and system level.
@@ -18,7 +19,8 @@ Bangalore, India
 ### [General Motors](http://www.gm.com/) [Technical Centre India](http://careers.gm.com/worldwide-locations/asiamiddle-east/india.html)
 Bangalore, India
 
-**Senior Engineer - Safety CAE**, Pedestrian Protection CAE,  *August 2013 - November 2017*
+**Senior Engineer - Safety CAE**, Pedestrian Protection CAE
+*August 2013 - November 2017*
 
 > - Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
 > - CAE Analysis of full-vehicle frontal, rear and side loadcases in USNCAP, China NCAP.
