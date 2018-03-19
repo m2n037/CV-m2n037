@@ -5,6 +5,7 @@
 Bangalore, India
 
 **Technical Lead - Mechanical Engineer III**, Creative Solutions Lab, Advanced Technology Lab, CTO 
+
 *December 2017 - present*
 
 > - Working with cross function design and analysis teams across sites on the next generation systems. Use simulation and experimental techniques to analyse structural weaknesses in a design while working towards improving current modeling methodology.
@@ -20,6 +21,7 @@ Bangalore, India
 Bangalore, India
 
 **Senior Engineer - Safety CAE**, Pedestrian Protection CAE
+
 *August 2013 - November 2017*
 
 > - Nonlinear explicit dynamics simulations intensive of contact and material nonlinearity in LS-DYNA.
@@ -33,7 +35,9 @@ Bangalore, India
 
 ### [Indian Institute of Science Bangalore](http://www.iisc.ac.in/)
 
-**Project Assistant**, Computational Nano-Engineering Group, M2D2 Lab, under Dr. G. K. Ananthasuresh, *August 2010 - June 2011*
+**Project Assistant**, Computational Nano-Engineering Group, M2D2 Lab, under Dr. G. K. Ananthasuresh
+
+*August 2010 - June 2011*
 
 > - Benchmarking of an FEA package developed in IISc (HyFEM) to commercial packages.
 > - Finite element simulation of micro compliant mechanisms.
@@ -44,7 +48,7 @@ Bangalore, India
 
 Thesis - *Design, Fabrication, and Testing of a Novel and Cost-Effective Soil Moisture Sensor Meter for Farming Applications in India.* [(G-Drive Link)](https://google.com)
 
-Advisor - [Dr. G. K. Ananthasuresh](http://www.mecheng.iisc.ernet.in/~suresh/), Professor, [Dept of Mechanical Engineering, IISc Bangalore](http://www.mecheng.iisc.ernet.in/)
+Advisor - [Dr. G. K. Ananthasuresh](http://www.mecheng.iisc.ernet.in/~suresh/), Professor, [Dept of Mechanical Engineering, IISc Bangalore](http://www.mecheng.iisc.ac.in/)
 
 ### [National Institute of Technology (NIT) Silchar](https://www.google.co.in/)
 **Bachelor of Technology(BTech), Mechanical Engineering July 2006 - June 2010**, Department of Mechanical Engineering, CGPA 8.29/10
