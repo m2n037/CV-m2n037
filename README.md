@@ -1,7 +1,7 @@
 # Mukunda Madhava Nath
 
 ## Work Experience
-### [Samsung R&D Institute Bangalore (SRI-B)](http://research.samsung.com/sri-b), [Samsung Electronics](http://www.samsung.com)
+### [Samsung R&D Institute India - Bangalore (SRI-B)](http://research.samsung.com/sri-b), [Samsung Electronics](http://www.samsung.com)
 Bangalore, India
 
 **Technical Lead - Mechanical Engineer III**, Creative Solutions Lab, Advanced Technology Lab, CTO 
